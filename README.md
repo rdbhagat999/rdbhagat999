@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/rdbhagat999) represent my journey :running_man: - This is Ramandeep Bhagat, I have over 3 years’ experience as a Web Developer. I have worked in Angular, Ionic, Flutter, and for database I use Firebase Firestore, Mysql, mongodb.
+**Happy to see you here!** :star_struck: <br> This is Ramandeep Bhagat, I have over 3 years’ experience as a Web Developer. I have worked in Angular, Ionic, Flutter, and for database I use Firebase Firestore, Mysql, mongodb.
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
