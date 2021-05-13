@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 **Happy to see you here!** :star_struck: <br> This is Ramandeep Bhagat, I have over 3 years’ experience as a Web Developer. I have worked in Angular, Ionic, Flutter, and for database I use Firebase Firestore, Mysql, mongodb.
 
+**Recent Projects:**
+
+<p><a href="https://nextjs-events-henna.vercel.app">Music Events</a></p>
+<p><a href="https://sveltekit-auth.vercel.app">SvelteKit Authentication</a></p>
+<p><a href="https://rdbhagat999-svelte-store.netlify.app">Svelte Store</a></p>
+<p><a href="https://rdbhagat999.github.io/ngdemoapp">Angular Demo</a></p>
+
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
