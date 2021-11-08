@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p><a href="https://nextjs-events-henna.vercel.app">Music Events</a></p>
 <p><a href="https://sveltekit-auth.vercel.app">SvelteKit Authentication</a></p>
 <p><a href="https://rdbhagat999-svelte-store.netlify.app">Svelte Store</a></p>
-<p><a href="https://rdbhagat999.github.io/ngdemoapp">Angular Demo</a></p>
+<p><a href="https://rdbhagat999.github.io/ngapp">Angular Demo</a></p>
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
